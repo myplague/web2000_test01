@@ -1,0 +1,22 @@
+h1{
+  text-align: center
+}
+ audio{
+   display: block;
+   margin: 0 auto;
+
+ }
+#audio-controls{
+  height: 3rem;
+margin: 0 auto;
+
+}
+input{
+  display: block;
+
+  margin: 2rem auto;
+}
+
+#next-audio{
+  width: 30rem;
+}
